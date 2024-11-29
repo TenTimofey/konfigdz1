@@ -1,0 +1,6 @@
+<config>
+    <hostname>my_virtual_machine</hostname>
+    <fs_archive>files/virtual_fs.tar</fs_archive>
+    <log_file>files/log.json</log_file>
+    <startup_script> </startup_script>
+</config>
